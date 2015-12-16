@@ -14,6 +14,7 @@
 		A6E8AD151C2161BD007148FA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6E8AD141C2161BD007148FA /* Images.xcassets */; };
 		A6E8AD181C2161BD007148FA /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A6E8AD161C2161BD007148FA /* LaunchScreen.xib */; };
 		A6E8AD241C2161BD007148FA /* LocalNotificationDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A6E8AD231C2161BD007148FA /* LocalNotificationDemoTests.m */; };
+		A6E8AD601C2173D8007148FA /* sounds-990-system-fault.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A6E8AD5F1C2173D8007148FA /* sounds-990-system-fault.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		A6E8AD1D1C2161BD007148FA /* LocalNotificationDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LocalNotificationDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A6E8AD221C2161BD007148FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A6E8AD231C2161BD007148FA /* LocalNotificationDemoTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LocalNotificationDemoTests.m; sourceTree = "<group>"; };
+		A6E8AD5F1C2173D8007148FA /* sounds-990-system-fault.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "sounds-990-system-fault.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		A6E8AD061C2161BD007148FA /* LocalNotificationDemo */ = {
 			isa = PBXGroup;
 			children = (
+				A6E8AD5F1C2173D8007148FA /* sounds-990-system-fault.mp3 */,
 				A6E8AD0B1C2161BD007148FA /* AppDelegate.h */,
 				A6E8AD0C1C2161BD007148FA /* AppDelegate.m */,
 				A6E8AD0E1C2161BD007148FA /* ViewController.h */,
@@ -202,6 +205,7 @@
 				A6E8AD131C2161BD007148FA /* Main.storyboard in Resources */,
 				A6E8AD181C2161BD007148FA /* LaunchScreen.xib in Resources */,
 				A6E8AD151C2161BD007148FA /* Images.xcassets in Resources */,
+				A6E8AD601C2173D8007148FA /* sounds-990-system-fault.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
